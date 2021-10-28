@@ -7,7 +7,8 @@ CoinMan is an single player android game
 ## Demo
 
 Click to watch demo👇
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/81246797/139291856-019b9162-0bdc-458a-b396-65f016d1dd23.gif)
+
+https://user-images.githubusercontent.com/81246797/139292911-e11f8492-cee4-4f61-ad65-27ac78891d44.mp4
 
 
 ## Installation
