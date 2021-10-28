@@ -10,9 +10,6 @@ Click to watch demo👇
 
 https://user-images.githubusercontent.com/81246797/139292911-e11f8492-cee4-4f61-ad65-27ac78891d44.mp4
 
-<img width="351" alt="Screenshot 2021-10-28 at 8 18 23 PM" src="https://user-images.githubusercontent.com/81246797/139293575-4b6a5990-2afe-4a76-b4ad-1435357a4fb3.png">
-
-
 
 ## Installation
 
