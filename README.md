@@ -25,9 +25,8 @@ https://github.com/ArjunJadeja/CoinManGame/blob/main/CoinMan.apk
 5. Congrats🥳 You have installed this game. Don't forget to share your top Score!! 
     
 ## Documentation
-1.
-2.
-3.
+
+to be done...
 
 
 ## Contributing
