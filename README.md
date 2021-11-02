@@ -1,7 +1,7 @@
 
 # CoinMan
 
-CoinMan is an single player android game 
+CoinMan is an single player android game. 
 
 
 ## Demo
@@ -23,11 +23,6 @@ https://github.com/ArjunJadeja/CoinManGame/blob/main/CoinMan.apk
 4. Click Continue.
 
 5. Congrats🥳 You have installed this game. Don't forget to share your top Score!! 
-    
-## Documentation
-
-to be done...
-
 
 ## Contributing
 
